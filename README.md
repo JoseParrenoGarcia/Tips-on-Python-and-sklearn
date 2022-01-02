@@ -7,7 +7,7 @@ This repository captures knowledge I have found interesting and that has helped 
 
 | Tip ID | Tip Description                                 |                                                                                                                               Link |
 |--------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------:|
-| 1      | Fast filtering pandas dataframes (numeric data) | [Link to notebook] (https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-filtering.ipynb) |
+| 1      | Fast filtering pandas dataframes (numeric data) |  [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-filtering.ipynb) |
 | 2      | Fast filtering pandas dataframes (string data)  |                                                                                                                                xxx |
 | 3      | Fast filtering lists (numeric data)             |                                                                                                                                xxx |
 | 4      | Fast filtering lists (string data)              |                                                                                                                                xxx |
