@@ -23,8 +23,8 @@ This repository captures knowledge I have found interesting and that has helped 
 *(for classification and regression problems)*
 
 Ideas:
-(1) Majority class accuracy, sampling algos (SMOTE, other), weighting classes, weighting errors
-(2) One-hot (or other encoding techniques), for high cardinality take top X% volume and the rest categorise as 'Other'
+* (1) Majority class accuracy, sampling algos (SMOTE, other), weighting classes, weighting errors
+* (2) One-hot (or other encoding techniques), for high cardinality take top X% volume and the rest categorise as 'Other'
 
 | Tip ID | Tip Description                          | Link |
 |--------|------------------------------------------|-----:|
