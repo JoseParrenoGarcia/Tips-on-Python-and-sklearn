@@ -3,7 +3,7 @@
 This repository captures knowledge I have found interesting and that has helped me over the past years. It is intended for my own personal use, where I can come back and find solutions to problems I have already solved. However, if you find this useful, then this repository is achieving more than it was built for. 
 
 
-## Data Wrangling
+## Data Wrangling (python)
 
 | Tip ID | Tip Description                                 |                                                                                                                                                Link |
 |--------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -14,7 +14,9 @@ This repository captures knowledge I have found interesting and that has helped 
 | 5      | Fast if else statements pandas                  |                                                                                                                                                 xxx |
 | 6      | Fast joins pandas                               |                                                                                                                                                 xxx |
 
+## Data Wrangling (PySpark)
 
+* Add table with tips
 
 ## Sklearn pipelines
 
