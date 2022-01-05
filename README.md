@@ -19,7 +19,16 @@ This repository captures knowledge I have found interesting and that has helped 
 
 ## Sklearn pipelines
 
-* Add table with tips
+| Tip ID | Tip Description                                                 | Link |
+|--------|-----------------------------------------------------------------|-----:|
+| 1      | Simple pipeline (numeric + categorical processing)              |  xxx |
+| 2      | Access different steps in a `Pipeline` through `named_steps`    |  xxx |
+| 3      | Execute only parts of the `Pipeline` by slicing                 |  xxx |
+| 4      | Pipeline + correct column names                                 |  xxx |
+| 5      | Reverse calculations on pipeline                                |  xxx |
+| 6      | Difference between `Pipeline` and `make_pipeline`               |  xxx |
+| 7      | User defined function in `Pipeline` using `FunctionTransformer` |  xxx |
+| 8      | Create diagram of the `Pipeline`                                |  xxx |
 
 ## Feature preprocessing 
 *(for classification and regression problems)*
