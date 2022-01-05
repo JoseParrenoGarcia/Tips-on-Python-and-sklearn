@@ -11,7 +11,7 @@ This repository captures knowledge I have found interesting and that has helped 
 | 2      | Fast filtering pandas dataframes (string data)  |  [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-filtering-pandas-df-string.ipynb) |
 | 3      | Fast filtering lists (numeric data)             |             [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-filtering-lists.ipynb) |
 | 4      | Fast if else statements pandas                  |              [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-if-else-pandas.ipynb) |
-| 5      | Fast joins pandas                               |                                                                                                                                                 xxx |
+| 5      | Fast joins pandas                               |                [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-pandas-joins.ipynb) |
 
 ## Data Wrangling (PySpark)
 
