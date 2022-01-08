@@ -17,14 +17,14 @@ This repository captures knowledge I have found interesting and that has helped 
 
 ## Sklearn pipelines
 
-| Tip ID | Tip Description                                              |                                                                                                                                              Link |
-|--------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1      | Simple pipeline (numeric + categorical processing)           |             [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/simple-pipeline.ipynb) |
-| 2      | Access different steps in a `Pipeline` through `named_steps` |    [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/access-steps-in-pipeline.ipynb) |
-| 3      | Execute only parts of the `Pipeline` by slicing              | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/execute-pipeline-by-slicing.ipynb) |
-| 4      | Pipeline + correct column names                              | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/pipeline-with-correct-names.ipynb) |
-| 5      | User defined function in `Pipeline` by creating new classes  |           [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/udfs-in-pipelines.ipynb) |
-| 6      | Create diagram of the `Pipeline`                             |                                                                                                                                               xxx |
+| Tip ID | Tip Description                                              |                                                                                                                                                              Link |
+|--------|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1      | Simple pipeline (numeric + categorical processing)           |                             [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/simple-pipeline.ipynb) |
+| 2      | Access different steps in a `Pipeline` through `named_steps` |                    [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/access-steps-in-pipeline.ipynb) |
+| 3      | Execute only parts of the `Pipeline` by slicing              |                 [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/execute-pipeline-by-slicing.ipynb) |
+| 4      | Pipeline + correct column names                              |                 [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/pipeline-with-correct-names.ipynb) |
+| 5      | User defined function in `Pipeline` by creating new classes  |                           [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/udfs-in-pipelines.ipynb) |
+| 6      | Create diagram of the `Pipeline`                             | [Link to nbviewer](https://nbviewer.org/github/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/create-diagram-of-sklearn-pipeline.ipynb) |
 
 ## Feature engineering 
 *(for classical classification and regression problems - not NLP, Computer Vision, Time Series, other)*
