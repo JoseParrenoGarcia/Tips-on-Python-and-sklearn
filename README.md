@@ -26,11 +26,8 @@ This repository captures knowledge I have found interesting and that has helped 
 | 5      | User defined function in `Pipeline` by creating new classes  |                           [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/udfs-in-pipelines.ipynb) |
 | 6      | Create diagram of the `Pipeline`                             | [Link to nbviewer](https://nbviewer.org/github/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/create-diagram-of-sklearn-pipeline.ipynb) |
 
-## Feature engineering 
-*(for classical classification and regression problems - not NLP, Computer Vision, Time Series, other)*
-
-Ideas:
-* (1) Majority class accuracy, sampling algos (SMOTE, other), weighting classes, weighting errors
+## Feature engineering - classical classification and regression problems
+*(not NLP, Computer Vision, Time Series, other)*
 
 | Tip ID | Tip Description                                           | Link |
 |--------|-----------------------------------------------------------|-----:|
