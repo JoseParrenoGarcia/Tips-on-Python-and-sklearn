@@ -23,7 +23,7 @@ This repository captures knowledge I have found interesting and that has helped 
 | 2      | Access different steps in a `Pipeline` through `named_steps` |    [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/access-steps-in-pipeline.ipynb) |
 | 3      | Execute only parts of the `Pipeline` by slicing              | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/execute-pipeline-by-slicing.ipynb) |
 | 4      | Pipeline + correct column names                              | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/pipeline-with-correct-names.ipynb) |
-| 5      | User defined function in `Pipeline` by creating new classes  |                                                                                                                                               xxx |
+| 5      | User defined function in `Pipeline` by creating new classes  |           [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/udfs-in-pipelines.ipynb) |
 | 6      | Create diagram of the `Pipeline`                             |                                                                                                                                               xxx |
 
 ## Feature engineering 
