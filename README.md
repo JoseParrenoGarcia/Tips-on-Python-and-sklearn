@@ -13,6 +13,7 @@ This repository captures knowledge I have found interesting and that has helped 
 | 4      | Fast if else statements pandas                  |              [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-if-else-pandas.ipynb) |
 | 5      | Fast joins pandas                               |                [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-pandas-joins.ipynb) |
 | 6      | Rank over partition by in pandas                |                                                                                                                                                 xxx |
+| 7      | Consecutive days                                |                                                                                                                                                 xxx |
 
 ## Sklearn pipelines
 
