@@ -21,10 +21,9 @@ This repository captures knowledge I have found interesting and that has helped 
 | 1      | Simple pipeline (numeric + categorical processing)              |             [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/simple-pipeline.ipynb) |
 | 2      | Access different steps in a `Pipeline` through `named_steps`    |    [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/access-steps-in-pipeline.ipynb) |
 | 3      | Execute only parts of the `Pipeline` by slicing                 | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/execute-pipeline-by-slicing.ipynb) |
-| 4      | Pipeline + correct column names                                 |                                                                                                                                               xxx |
-| 5      | Difference between `Pipeline` and `make_pipeline`               |                                                                                                                                               xxx |
-| 6      | User defined function in `Pipeline` using `FunctionTransformer` |                                                                                                                                               xxx |
-| 7      | Create diagram of the `Pipeline`                                |                                                                                                                                               xxx |
+| 4      | Pipeline + correct column names                                 | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/sklearn-pipelines/pipeline-with-correct-names.ipynb) |
+| 5      | User defined function in `Pipeline` using `FunctionTransformer` |                                                                                                                                               xxx |
+| 6      | Create diagram of the `Pipeline`                                |                                                                                                                                               xxx |
 
 ## Feature engineering 
 *(for classical classification and regression problems - not NLP, Computer Vision, Time Series, other)*
