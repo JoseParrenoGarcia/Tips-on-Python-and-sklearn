@@ -14,6 +14,8 @@ This repository captures knowledge I have found interesting and that has helped 
 | 5      | Fast joins pandas                               |                 [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/fast-pandas-joins.ipynb) |
 | 6      | Rank over partition by in pandas                |                    [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/pandas-ranking.ipynb) |
 | 7      | Consecutive streaks                             | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/python-pandas-consecutive-streaks.ipynb) |
+| 8      | Moving average                                  |                                                                                                                                                  xxx |
+| x      | HackerRank type questions                       |                                                                                                                                                  xxx |
 
 ## Sklearn pipelines
 
