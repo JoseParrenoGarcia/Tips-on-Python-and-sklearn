@@ -31,15 +31,15 @@ This repository captures knowledge I have found interesting and that has helped 
 ## Feature engineering - classical classification and regression problems
 *(not NLP, Computer Vision, Time Series, other)*
 
-| Tip ID | Tip Description                                           | Link |
-|--------|-----------------------------------------------------------|-----:|
-| 1      | Dealing with imbalanced classification                    |  xxx |
-| 2      | Dealing with categorical features                         |  xxx |
-| 3      | Dealing with numerical features                           |  xxx |
-| 4      | Dealing with missing data                                 |  xxx |
-| 5      | Dealing with outliers                                     |  xxx |
-| 6      | Correlation between variables (categorical and numerical) |  xxx |
-| 7      | Creating interactions                                     |  xxx |
+| Tip ID | Tip Description                                       | Link |
+|--------|-------------------------------------------------------|-----:|
+| 1      | Dealing with imbalanced classification                |  xxx |
+| 2      | Best practices when working with categorical features |  xxx |
+| 3      | Best practices when working with numerical features   |  xxx |
+| 4      | Dealing with missing data                             |  xxx |
+| 5      | Dealing with outliers                                 |  xxx |
+| 6      | Feature selection methods                             |  xxx |
+| 7      | Creating interactions                                 |  xxx |
 
 
 
