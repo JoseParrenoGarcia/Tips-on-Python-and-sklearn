@@ -31,24 +31,24 @@ This repository captures knowledge I have found interesting and that has helped 
 ## Feature engineering - classical classification and regression problems
 *(not NLP, Computer Vision, Time Series, other)*
 
-| Tip ID | Tip Description                                        | Link |
-|--------|--------------------------------------------------------|-----:|
-| -      | **Dealing with imbalanced classes**                    |    - |
-| 1.1.   | Summary of techniques (no code)                        |  xxx |
-| 1.2.   | Calculating metrics using sklearn                      |  xxx |
-| 1.3.   | How to optimise the selection of probability threshold |  xxx |
-| 1.4.   | How to run stratified splitting                        |  xxx |
-| 1.5.   | How to over/under sample                               |  xxx |
-| 1.5.1. | Caution when using under/over sampling techniques      |  xxx |
-| 1.6.   | How to change class weights in different models        |  xxx |
-| 1.7.   | How to run cost sensitive classification learning      |  xxx |
-| 1.8.   | Summary of results using the mentioned techniques      |  xxx |
-| 2      | Best practices when working with categorical features  |  xxx |
-| 3      | Best practices when working with numerical features    |  xxx |
-| 4      | Dealing with missing data                              |  xxx |
-| 5      | Dealing with outliers                                  |  xxx |
-| 6      | Feature selection methods                              |  xxx |
-| 7      | Creating interactions                                  |  xxx |
+| Tip ID | Tip Description                                        |                                                                                                                                                               Link |
+|--------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| -      | **Dealing with imbalanced classes**                    |                                                                                                                                                                  - |
+| 1.1.   | Summary of techniques (no code)                        | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/feature-engineering/summary-of-dealing-with-imbalanced-classes.ipynb) |
+| 1.2.   | Calculating metrics using sklearn                      |                                                                                                                                                                xxx |
+| 1.3.   | How to optimise the selection of probability threshold |                                                                                                                                                                xxx |
+| 1.4.   | How to run stratified splitting                        |                                                                                                                                                                xxx |
+| 1.5.   | How to over/under sample                               |                                                                                                                                                                xxx |
+| 1.5.1. | Caution when using under/over sampling techniques      |                                                                                                                                                                xxx |
+| 1.6.   | How to change class weights in different models        |                                                                                                                                                                xxx |
+| 1.7.   | How to run cost sensitive classification learning      |                                                                                                                                                                xxx |
+| 1.8.   | Summary of results using the mentioned techniques      |                                                                                                                                                                xxx |
+| 2      | Best practices when working with categorical features  |                                                                                                                                                                xxx |
+| 3      | Best practices when working with numerical features    |                                                                                                                                                                xxx |
+| 4      | Dealing with missing data                              |                                                                                                                                                                xxx |
+| 5      | Dealing with outliers                                  |                                                                                                                                                                xxx |
+| 6      | Feature selection methods                              |                                                                                                                                                                xxx |
+| 7      | Creating interactions                                  |                                                                                                                                                                xxx |
 
 
 
