@@ -49,6 +49,7 @@ This repository captures knowledge I have found interesting and that has helped 
 | 5      | Dealing with outliers                                  |                                                                                                                                                                xxx |
 | 6      | Feature selection methods                              |                                                                                                                                                                xxx |
 | 7      | Creating interactions                                  |                                                                                                                                                                xxx |
+|        | Stratified sampling to reduce bias                     |                                                                                                                                                                    |
 
 
 
