@@ -15,7 +15,6 @@ This repository captures knowledge I have found interesting and that has helped 
 | 6      | Rank over partition by in pandas                |                    [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/pandas-ranking.ipynb) |
 | 7      | Consecutive streaks                             | [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/python-pandas-consecutive-streaks.ipynb) |
 | 8      | Moving average                                  |             [Link to notebook](https://github.com/JoseParrenoGarcia/Tips-on-Python-and-sklearn/blob/main/data-wrangling/pandas-moving-average.ipynb) |
-| x      | HackerRank type questions                       |                                                                                                                                                  xxx |
 
 ## Sklearn pipelines
 
@@ -41,8 +40,7 @@ This repository captures knowledge I have found interesting and that has helped 
 | 1.5.   | How to over/under sample                               |                                                                                                                                                                xxx |
 | 1.5.1. | Caution when using under/over sampling techniques      |                                                                                                                                                                xxx |
 | 1.6.   | How to change class weights in different models        |                                                                                                                                                                xxx |
-| 1.7.   | How to run cost sensitive classification learning      |                                                                                                                                                                xxx |
-| 1.8.   | Summary of results using the mentioned techniques      |                                                                                                                                                                xxx |
+| 1.7.   | Summary of results using the mentioned techniques      |                                                                                                                                                                xxx |
 | 2      | Best practices when working with categorical features  |                                                                                                                                                                xxx |
 | 3      | Best practices when working with numerical features    |                                                                                                                                                                xxx |
 | 4      | Dealing with missing data                              |                                                                                                                                                                xxx |
